@@ -13,3 +13,5 @@ Our goal with this presentation is to collect, process and present information c
 ## Summary
 These illustrations show that male population uses these services quite frequently and there's more subscribers than short-term users. It shows that this is mainly used during the weekdays specifically during working hours. The city structure allows for the bike sharing service to be of high demand avoiding automobile traffic congestions. Also for tourists it can prove to be an effective mode of transportation if you're up for a more leisurey pace. All in all there is ample evidence to justify this for the city of Des Moines.  
 
+## Link to Tableau public
+https://public.tableau.com/views/Bikesharing_16440789176210/BikeSharing?:language=en-US&:display_count=n&:origin=viz_share_link
